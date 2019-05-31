@@ -219,6 +219,14 @@ a:focus {
     text-indent: .15em;
 }
 
+.post .post-meta>span{
+    margin: 0 50px 0 0;  
+}
+
+.post-author {
+    color: #009926;
+}
+
 .post .ds-thread-count {
     padding: 0;
     margin: 12px 0 0;

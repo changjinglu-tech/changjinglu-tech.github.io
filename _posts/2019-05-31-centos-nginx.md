@@ -2,8 +2,9 @@
 layout: post
 title:  "centOS中搭建nginx，并使用letsencrypt配置http/2.0（part 1）"
 date:   2019-05-31 16:14:28 +0800--
-categories: [配置]
+categories: [教程]
 tags:   [nginx, centOS]
+author: 香菇
 ---
 
 前几天为了使自己的接口支持https，就想直接使用http/2.0，配置的过程中遇到一些小坑，写个文章记录一下，另外希望对刚开始配置的读者一些帮助和参考。
