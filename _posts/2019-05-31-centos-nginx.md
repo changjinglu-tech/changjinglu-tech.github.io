@@ -2,7 +2,7 @@
 layout: post
 title:  "centOS中搭建nginx，并使用letsencrypt配置http/2.0（part 1）"
 date:   2019-05-31 16:14:28 +0800--
-categories: [教程]
+categories: [运维]
 tags:   [nginx, centOS]
 author: 香菇
 ---
