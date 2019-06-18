@@ -6,8 +6,8 @@ categories: [运维]
 tags:   [nginx, centOS]
 author: 香菇
 ---
-![avatar](http://baidu.com/pic/doge.png)
-![无敌](/assets/imgs/favicon.png)
+
+
 
 前几天为了使自己的接口支持https，就想直接使用http/2.0，配置的过程中遇到一些小坑，写个文章记录一下，另外希望对刚开始配置的读者一些帮助和参考。
 明确我们的最终目标，也就是标题：给自己的nginx配置http/2，为了实现这个目标，并不是我们服务器已经有nginx就可以了，你的nginx版本很有可能不符合http/2的要求。因为，nginx从1.9.5版本才开始默认支持http/2，并移除了`SPDY`模块。
